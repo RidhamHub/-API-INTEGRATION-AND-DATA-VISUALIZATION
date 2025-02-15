@@ -12,7 +12,7 @@
 
 **MENTOR NAME** : NEELA SANTOSH KUMAR
 
-# Overview of the Script : 
+# Overview of the project : 
 Fetching API Key – Reads the API key from a file.
 User Input – Takes the city name from the user.
 API Request – Sends a request to the OpenWeatherMap API and retrieves weather data.
