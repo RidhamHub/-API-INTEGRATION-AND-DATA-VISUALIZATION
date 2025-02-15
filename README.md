@@ -12,4 +12,10 @@
 
 **MENTOR NAME** : NEELA SANTOSH KUMAR
 
-# ENTER DESCRIPTION  OF THER TASK PERFORMED NOT LESS THAN 500 WORDS...
+# Overview of the Script : 
+Fetching API Key – Reads the API key from a file.
+User Input – Takes the city name from the user.
+API Request – Sends a request to the OpenWeatherMap API and retrieves weather data.
+Data Extraction & Conversion – Extracts required weather information and converts temperature values.
+Displaying Results – Prints the weather details in a readable format.
+
